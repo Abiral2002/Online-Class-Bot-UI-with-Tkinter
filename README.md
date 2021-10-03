@@ -1,4 +1,4 @@
-# Online-Class-Bot-UI-with-Tkinter
+# Online-Class-Bot-UI-with-Tkinter-by-BipinKaji
 This is a simple UI for desktop app using Tkinter module in Python.
 
 
@@ -10,3 +10,4 @@ This is a simple UI for desktop app using Tkinter module in Python.
 ### Use the line of code below inside the directory to execute and run the app.
 
 ```python3 onlineclassbot.py```
+
